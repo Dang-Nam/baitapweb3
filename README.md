@@ -40,4 +40,6 @@ TẠO THƯ MỤC html + nginx.conf
 <img width="1541" height="213" alt="image" src="https://github.com/user-attachments/assets/12515fc0-ddd7-4b7b-a8de-10a59f9df2db" />
 
 CHẠY DOCKER COMPOSE
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1afa2225-5cde-4356-842a-f5706545360d" />
+container đã hoạt động
 
