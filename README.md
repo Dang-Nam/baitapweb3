@@ -119,7 +119,8 @@ TẠO DASHBOARD GRAFANA
 
 
 web 
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/467ae4c4-551b-4b0f-9195-db57aaba84c8" />
+của sổ đăng nhập
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9e334be-a2fc-4382-aa78-53310f727f04" />
 
 
