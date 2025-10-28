@@ -43,3 +43,13 @@ CHẠY DOCKER COMPOSE
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1afa2225-5cde-4356-842a-f5706545360d" />
 container đã hoạt động
 
+
+TRUY CẬP PHPMYADMIN MỚI
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f4d9412-e187-46cd-ba34-0a83b2f9cb94" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24dcf3b6-4229-44eb-96ab-a04cf6c04a87" />
+
+Thấy giao diện phpMyAdmin + DB iot_db
+
