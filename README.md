@@ -12,3 +12,9 @@ tải DOCKER DESKTOP
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ee998a3-114f-486b-88ad-edb8174304b5" />
 
 cài đặt DOCKER DESKTOP
+
+<img width="1606" height="961" alt="image" src="https://github.com/user-attachments/assets/a45214df-79b7-4fd8-9dd5-d73442eed1b0" />
+chưa cập nhật WSL2
+
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/739bcb55-84a5-4c1d-b658-109e9a6dbd58" />
+  CHẠY LỆNH CẬP NHẬT WSL
