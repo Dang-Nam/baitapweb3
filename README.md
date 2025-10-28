@@ -66,3 +66,37 @@ TẠO index.html (SPA – ĐƠN GIẢN)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a5c4b9f-4366-4b68-bb1f-0fd025854bf5" />
 install node-red-contrib-influxdb và node-red-node-mysql 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/004d099c-2459-4385-a280-3ea86fe4c6ce" />
+
+TẠO db-config (KẾT NỐI MySQL)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8085a5ef-1956-4ffe-b89c-9c1d1563f84a" />
+
+TẠO API /api/login (POST)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fadca288-5f93-463f-91c9-e62bda14f224" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4db1c3b5-8033-4647-bdc8-7fe4244c883d" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fce3e21-9f4a-4564-81a5-8849347b2ef7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7dbea03-e499-40a1-8dfc-343399824824" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83457de4-76d8-4623-af45-bec7ab64058c" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41f9be97-c05a-423c-b108-fdc840f9fac6" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13abc658-4b43-4f16-b5c8-2a6a61ed5868" />
+
+
+
+
+
+
+
