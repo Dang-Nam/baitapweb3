@@ -53,3 +53,7 @@ TRUY CẬP PHPMYADMIN MỚI
 
 Thấy giao diện phpMyAdmin + DB iot_db
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b12866bd-e593-4de9-b6b1-85330341e274" />
+
+Tạo các bảng
+
