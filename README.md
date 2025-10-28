@@ -32,3 +32,6 @@ tạo thư mục
 <img width="886" height="217" alt="image" src="https://github.com/user-attachments/assets/aa8af38d-3d41-4bae-b8c9-8d266a6b2209" />
 
 TẠO THƯ MỤC html + nginx.conf
+
+<img width="703" height="330" alt="image" src="https://github.com/user-attachments/assets/e51c65b0-2c9a-4fdc-a434-74651edb822f" />
+
