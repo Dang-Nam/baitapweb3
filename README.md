@@ -62,3 +62,7 @@ sensors_latest và users
 
 <img width="933" height="207" alt="image" src="https://github.com/user-attachments/assets/0c8c1661-5715-47bf-97f6-feac6a051fa3" />
 TẠO index.html (SPA – ĐƠN GIẢN)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a5c4b9f-4366-4b68-bb1f-0fd025854bf5" />
+install node-red-contrib-influxdb và node-red-node-mysql 
