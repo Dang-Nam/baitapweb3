@@ -28,3 +28,7 @@ tạo thư mục
 
 <img width="1027" height="240" alt="image" src="https://github.com/user-attachments/assets/fda7a791-31f5-45ce-bd37-34829213be31" />
  TẠO FILE docker-compose.yml
+
+<img width="886" height="217" alt="image" src="https://github.com/user-attachments/assets/aa8af38d-3d41-4bae-b8c9-8d266a6b2209" />
+
+TẠO THƯ MỤC html + nginx.conf
