@@ -103,7 +103,12 @@ okkk node red
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/757be7e9-1aa2-41ce-b049-100aee70c316" />
 api oke
 
+TẠO FLOW LƯU REALTIME VÀO INFLUXDB
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51c574b9-bdc4-41fa-89ed-80ba3c06de81" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7075f787-43fc-4170-9785-e4e4be8d1d08" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0291afb0-d3c6-47ea-9f6f-da8c34772dfe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b83f82f-faa9-4da6-8ff7-7a31306f886b" />
 
 
 
