@@ -35,3 +35,8 @@ TẠO THƯ MỤC html + nginx.conf
 
 <img width="703" height="330" alt="image" src="https://github.com/user-attachments/assets/e51c65b0-2c9a-4fdc-a434-74651edb822f" />
 
+<img width="954" height="361" alt="image" src="https://github.com/user-attachments/assets/45fec225-8124-40d4-b0aa-51eccf56ba92" />
+<img width="404" height="319" alt="image" src="https://github.com/user-attachments/assets/496905f9-e761-4648-9b2b-4a63176f2ca4" />
+
+CHẠY DOCKER COMPOSE
+
