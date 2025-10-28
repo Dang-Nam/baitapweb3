@@ -18,3 +18,8 @@ chưa cập nhật WSL2
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/739bcb55-84a5-4c1d-b658-109e9a6dbd58" />
   CHẠY LỆNH CẬP NHẬT WSL
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756d12fa-737c-4929-8937-d204e2c83607" />
+<img width="1366" height="870" alt="image" src="https://github.com/user-attachments/assets/76ac2d12-8d3f-44cb-b50b-7ade13da6d42" />
+
+đã ok
+
