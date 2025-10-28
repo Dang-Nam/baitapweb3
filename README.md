@@ -23,3 +23,8 @@ chưa cập nhật WSL2
 
 đã ok
 
+ <img width="407" height="65" alt="image" src="https://github.com/user-attachments/assets/afe88db5-81dd-4d1c-957d-a45d58fd8f7d" />
+tạo thư mục
+
+<img width="1027" height="240" alt="image" src="https://github.com/user-attachments/assets/fda7a791-31f5-45ce-bd37-34829213be31" />
+ TẠO FILE docker-compose.yml
