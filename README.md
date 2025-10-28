@@ -110,5 +110,17 @@ TẠO FLOW LƯU REALTIME VÀO INFLUXDB
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0291afb0-d3c6-47ea-9f6f-da8c34772dfe" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b83f82f-faa9-4da6-8ff7-7a31306f886b" />
 
+TẠO DASHBOARD GRAFANA
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc81ae5f-ab1f-4789-947b-6c62b287633e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71967e72-8409-433b-9dcc-25ee4ef91a3d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/992d7ca2-1072-45e8-bd7f-11deafd533ef" />
+
+
+web 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9e334be-a2fc-4382-aa78-53310f727f04" />
+
 
 
