@@ -79,6 +79,7 @@ TẠO API /api/login (POST)
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4db1c3b5-8033-4647-bdc8-7fe4244c883d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/690040a2-09df-4281-a3ed-8417c9d60dcf" />
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fce3e21-9f4a-4564-81a5-8849347b2ef7" />
@@ -91,10 +92,16 @@ TẠO API /api/login (POST)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41f9be97-c05a-423c-b108-fdc840f9fac6" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f2f5a5-8ae7-49c6-8823-28204b5ddef1" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13abc658-4b43-4f16-b5c8-2a6a61ed5868" />
 
 
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1157fba-5741-491f-b91c-ea6696076db6" />
+okkk node red
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/757be7e9-1aa2-41ce-b049-100aee70c316" />
+api oke
 
 
 
